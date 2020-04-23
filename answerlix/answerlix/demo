@@ -1,0 +1,11 @@
+************** AnswerLix Demo **************
+1) Check for the .pkl files -- Done
+2) Check for the input files -- Done
+3) Run main.py -- Done
+4) Go to the URL where the model is deployed
+    and Enter the question in the chat box footer-- Done
+5) The answer is fetched from CSV and is displayed
+    in the chat box. -- Done
+6) Let's validate the answer manually.
+
+Demo Complete.

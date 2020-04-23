@@ -1,0 +1,42 @@
+# Python version 3.6
+#If you are not using PyCharm IDE , follow the below instructions:
+
+
+# Spacy version required- 2.1.8 (downgrade or upgrade if Spacy version to 2.1.8)
+# python -m spacy info --> to check the version of Spacy if already installed
+
+
+# pip install
+!pip install pandas
+!pip install numpy
+!pip install scikit-learn
+!pip install -U spacy==2.1.8
+python -m spacy download en_core_web_sm
+
+
+#Imports 
+import pandas as pd
+import numpy as np
+import sklearn
+import spacy
+import plac
+import random
+import csv
+import re
+from itertools import zip_longest
+from pathlib import Path
+from spacy.matcher import PhraseMatcher, Matcher
+from spacy.util import minibatch, compounding
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.model_selection import cross_val_score
+from sklearn.naive_bayes import MultinomialNB
+
+
+#download best-matching version of specific model for your spaCy installation
+python -m spacy download en_core_web_sm
+
+# out-of-the-box: download best-matching default model
+python -m spacy download en

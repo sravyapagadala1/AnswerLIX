@@ -1,0 +1,7 @@
+flask
+nltk
+sklearn==0.19.1
+numpy
+pandas
+textblob
+spacy==2.1.8
