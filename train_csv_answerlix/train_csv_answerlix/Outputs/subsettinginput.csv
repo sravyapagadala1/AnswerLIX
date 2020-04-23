@@ -1,0 +1,622 @@
+metric tons,unit_id
+polystyrene,market
+imports,metric
+india,country
+2016,year
+#
+metric tons,unit_id
+polymer,market
+exports,metric
+india,country
+2015,year
+#
+metric tons,unit_id
+low-density polyethylene,market
+exports,metric
+india,country
+2015,year
+#
+metric tons,unit_id
+carbon black,market
+exports,metric
+india,country
+2016,year
+#
+united states dollar,currency_id
+sales,metric
+timeshare,market
+united states,country
+2017,year
+#
+internet of things,market
+market size,metric
+united states dollar,currency_id
+#
+indian rupee,currency_id
+2 star hotel,market
+india,country
+2016,year
+#
+metric tons,unit_id
+polyvinyl chloride (pvc),market
+exports,metric
+india,country
+2016,year
+#
+metric tons,unit_id
+ethyl acetate,market
+imports,metric
+india,country
+2017,year
+#
+metric tons,unit_id
+ethyl acetate,market
+exports,metric
+india,country
+2014,year
+#
+exports,metric
+units,unit_id
+india,country
+automobile,market
+march,month
+2015,year
+#
+travel and tourism,market
+market size,metric
+united states dollar,currency_id
+#
+metric tons,unit_id
+synthetic rubber,market
+imports,metric
+india,country
+2014,year
+#
+market size,metric
+super absorbent polymer,market
+united states dollar,currency_id
+2025,year
+#
+metric tons,unit_id
+ethyl acetate,market
+exports,metric
+india,country
+2017,year
+#
+indian rupee,currency_id
+2 star hotel,market
+india,country
+2015,year
+#
+travel and tourism,market
+united states dollar,currency_id
+#
+metric tons,unit_id
+polypropylene,market
+exports,metric
+india,country
+2015,year
+#
+united states dollar,currency_id
+frac sand,market
+2023,year
+#
+exports,metric
+kilo tons,unit_id
+india,country
+aluminium,market
+march,month
+2018,year
+#
+metric tons,unit_id
+butadiene,market
+india,country
+exports,metric
+2017,year
+#
+timeshare,market
+resorts,unit_id
+2016,year
+#
+tons,unit_id
+iron ore,market
+exports,metric
+india,country
+2014,year
+#
+metric tons,unit_id
+plastics,market
+imports,metric
+india,country
+2017,year
+#
+metric tons,unit_id
+low-density polyethylene,market
+exports,metric
+india,country
+2017,year
+#
+metric tons,unit_id
+ethyl acetate,market
+imports,metric
+india,country
+2015,year
+#
+metric tons,unit_id
+synthetic rubber,market
+imports,metric
+india,country
+2016,year
+#
+indian rupee,currency_id
+2 star hotel,market
+india,country
+2016,year
+#
+united states dollar,currency_id
+linear low-density polyethylene,market
+2023,year
+#
+united states dollar,currency_id
+construction adhesives,market
+2025,year
+#
+metric tons,unit_id
+plastics,market
+imports,metric
+india,country
+2016,year
+#
+united states dollar,currency_id
+data acquisition,market
+2020,year
+#
+exports,metric
+units,unit_id
+india,country
+automobile,market
+march,month
+2016,year
+#
+capacity,metric
+cold storage,market
+india,country
+2017,year
+#
+metric tons,unit_id
+synthetic rubber,market
+exports,metric
+india,country
+2014,year
+#
+days,unit_id
+average stay,metric
+4 star hotel,market
+india,country
+2014,year
+#
+average stay,metric
+5 star hotel,market
+india,country
+2017,year
+#
+average stay,metric
+days,unit_id
+2 star hotel,market
+india,country
+2016,year
+#
+tons,unit_id
+iron ore,market
+exports,metric
+india,country
+2016,year
+#
+capacity,metric
+tons,unit_id
+cold storage,market
+india,country
+2016,year
+#
+united states dollar,currency_id
+soda ash,market
+2019,year
+#
+united states dollar,currency_id
+predictive analytics,market
+2020,year
+#
+acetic acid,market
+india,country
+imports,metric
+2017,year
+#
+united states dollar,currency_id
+real estate,market
+2020,year
+#
+metric tons,unit_id
+styrene-butadiene rubber,market
+exports,metric
+india,country
+2014,year
+#
+cinema,market
+screens,metric
+india,country
+2015,year
+#
+metric tons,unit_id
+polystyrene,market
+exports,metric
+india,country
+2014,year
+#
+exports,metric
+metric tons,unit_id
+india,country
+carbon black,market
+march,month
+2016,year
+#
+united states dollar,currency_id
+lithium-ion battery,market
+2023,year
+#
+united states dollar,currency_id
+digital lending,market
+india,country
+2023,year
+#
+days,unit_id
+2 star hotel,market
+india,country
+2015,year
+#
+united states dollar,currency_id
+luxury hotel,market
+2025,year
+#
+indian rupee,currency_id
+2 star hotel,market
+india,country
+2015,year
+#
+consumption,metric
+metric tons,unit_id
+linear low-density polyethylene,market
+india,country
+2014,year
+#
+metric tons,unit_id
+low-density polyethylene,market
+imports,metric
+india,country
+2016,year
+#
+metric tons,unit_id
+ethyl acetate,market
+imports,metric
+india,country
+2014,year
+#
+timeshare,market
+resorts,unit_id
+2017,year
+#
+united states dollar,currency_id
+mica,market
+2026,year
+#
+united states dollar,currency_id
+blockchain,market
+2023,year
+#
+exports,metric
+metric tons,unit_id
+india,country
+butadiene,market
+march,month
+2014,year
+#
+metric tons,unit_id
+polypropylene,market
+exports,metric
+india,country
+2014,year
+#
+metric tons,unit_id
+polymer,market
+imports,metric
+india,country
+2017,year
+#
+exports,metric
+metric tons,unit_id
+india,country
+carbon black,market
+march,month
+2014,year
+#
+united states dollar,currency_id
+gelcoat,market
+2020,year
+#
+tons,unit_id
+capacity,metric
+cold storage,market
+india,country
+2015,year
+#
+united states dollar,currency_id
+polyvinyl butyral (pvb),market
+2024,year
+#
+united states dollar,currency_id
+predictive analytics,market
+2020,year
+#
+united states dollar,currency_id
+propane,market
+2024,year
+#
+united states dollar,currency_id
+real estate,market
+2020,year
+#
+united states dollar,currency_id
+renewable energy,market
+2025,year
+#
+united states dollar,currency_id
+retail,market
+2023,year
+#
+united states dollar,currency_id
+roofing,market
+2026,year
+#
+united states dollar,currency_id
+silica,market
+2025,year
+#
+united states dollar,currency_id
+silicone additives,market
+2023,year
+#
+united states dollar,currency_id
+silicones,market
+2025,year
+#
+united states dollar,currency_id
+mobile application,market
+2024,year
+#
+united states dollar,currency_id
+online travel booking,market
+2026,year
+#
+cyber security,market
+united states dollar,currency_id
+#
+united states dollar,currency_id
+paints and coatings,market
+2025,year
+#
+united states dollar,currency_id
+pharmaceutical,market
+2025,year
+#
+united states dollar,currency_id
+plastics,market
+2020,year
+#
+united states dollar,currency_id
+plywood,market
+2023,year
+#
+united states dollar,currency_id
+polypropylene,market
+2022,year
+#
+united states dollar,currency_id
+polyurethanes,market
+2022,year
+#
+units,unit_id
+automobile,market
+india,country
+exports,metric
+2014,year
+#
+units,unit_id
+automobile,market
+india,country
+exports,metric
+2018,year
+#
+metric tons,unit_id
+butadiene,market
+india,country
+exports,metric
+2014,year
+#
+indian rupee,currency_id
+revenue,metric
+broadcast rights,market
+india,country
+2016,year
+#
+indian rupee,currency_id
+revenue,metric
+broadcast rights,market
+india,country
+2017,year
+#
+united states dollar,currency_id
+sales,metric
+timeshare,market
+united states,country
+2015,year
+#
+united states dollar,currency_id
+sales,metric
+timeshare,market
+united states,country
+2016,year
+#
+demand,metric
+tons,unit_id
+asphalt,market
+united states,country
+2021,year
+#
+demand,metric
+tons,unit_id
+asphalt,market
+united states,country
+2019,year
+#
+indian rupee,currency_id
+net sales,metric
+hotels,market
+india for,unit_id
+2015,country
+#
+market size,metric
+united states dollar,country
+construction equipment,market
+2025,year
+#
+market size,metric
+united states dollar,country
+carbon black,market
+2022,year
+#
+indian rupee,currency_id
+2 star hotel,market
+india,country
+2015,year
+#
+indian rupee,currency_id
+4 star hotel,market
+india,country
+2015,year
+#
+days,unit_id
+average stay,metric
+4 star hotel,market
+india,country
+2015,year
+#
+days,unit_id
+4 star hotel,market
+india,country
+2016,year
+#
+days,unit_id
+average stay,metric
+4 star hotel,market
+india,country
+2017,year
+#
+indian rupee,currency_id
+4 star hotel,market
+india,country
+2016,year
+#
+indian rupee,currency_id
+4 star hotel,market
+india,country
+2015,year
+#
+days,unit_id
+average stay,metric
+4 star hotel,market
+india,country
+2015,year
+#
+days,unit_id
+4 star hotel,market
+india,country
+2016,year
+#
+days,unit_id
+average stay,metric
+4 star hotel,market
+india,country
+2017,year
+#
+indian rupee,currency_id
+net sales,metric
+hotels,market
+india for,unit_id
+2016,country
+#
+metric tons,unit_id
+polyvinyl chloride (pvc),market
+india,country
+2015,year
+#
+cyber security,market
+united states dollar,currency_id
+#
+indian rupee,currency_id
+net sales,metric
+hotels,market
+india for,unit_id
+2015,country
+#
+units,unit_id
+sales,metric
+construction equipment,market
+india,country
+2017,year
+#
+capacity,metric
+million metric,unit_id
+tons,unit_id
+frac sand,market
+united states,country
+2019,year
+#
+market size,metric
+united states dollar,country
+it & ites  ,market
+2018,year
+#
+market size,metric
+united states dollar,currency_id
+travel and tourism,market
+2025,year
+#
+united states dollar,currency_id
+desktop virtualization  ,market
+2023,year
+#
+cyber security,market
+united states dollar,currency_id
+#
+market size,metric
+united states dollar,country
+renewable energy,market
+2025,year
+#
+units,unit_id
+butadiene,market
+india,country
+exports,metric
+2015,year
+#
+units,unit_id
+sales,metric
+construction equipment,market
+india,country
+2016,year
+#
+capacity,metric
+timeshare,market
+resorts,unit_id
+united states,country
+2016,year
+#

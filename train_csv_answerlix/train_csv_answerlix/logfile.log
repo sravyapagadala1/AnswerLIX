@@ -1,0 +1,241 @@
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:Running the text classification model
+INFO:root:target_column : 
+
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:Running the text classification model
+INFO:root:target_column : 
+
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:target_column : 
+
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:subsetting logic begins
+INFO:root:subsetting logic ends
+INFO:root:
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:Reading from subsettinginput file
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:subsetting logic begins
+INFO:root:subsetting logic ends
+INFO:root:
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:subsetting logic begins
+INFO:root:subsetting logic ends
+INFO:root:
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:subsetting logic begins
+INFO:root:subsetting logic ends
+INFO:root:
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:subsetting logic begins
+INFO:root:subsetting logic ends
+INFO:root:
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:target_column : 
+
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:Start generating customer tags
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
+INFO:root:subsetting logic begins
+INFO:root:subsetting logic ends
+INFO:root:
+INFO:root:New session 
+INFO:root:Reading Data source 
+INFO:root:Reading input files 
+INFO:root:Start generating customer tags
+INFO:root:customer tags generated
+INFO:root:Load spacy model
+INFO:root:Train data created!
+INFO:root:Runnning spacy model
+INFO:root:Fininshed 20 iterations!
+INFO:root:writing into subsettinginput file
+INFO:root:Reading from subsettinginput file
